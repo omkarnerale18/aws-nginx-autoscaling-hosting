@@ -6,7 +6,7 @@ This project is hosted using:
 - **Nginx** as the web server
 - **Custom VPC** with public/private subnets
 - **EC2 instances** from an **AMI**
-- **Application Load Balancer (ALB)** for traffic distribution
+- **Elastic Load Balancer (ELB)** for traffic distribution
 - **Auto Scaling Group (ASG)** for elasticity & high availability
 
 ---
