@@ -24,10 +24,20 @@ This project is hosted using:
 ## 📸 Screenshots
 
 ### Homepage
-![Homepage Screenshot](screenshots/homepage.png)
+![Homepage Screenshot](Screenshots/nginix-hosting-2.jpg)
 
-### AWS Architecture
-![AWS Architecture Screenshot](screenshots/aws-architecture.png)
+## AWS Architecture
+
+### EC2 Instances
+
+![AWS Architecture Screenshot](Screenshots/nginix-hosting-1.jpg)
+### Load Balancer
+
+![AWS Architecture Screenshot](Screenshots/nginix-hosting-3.jpg)
+
+### AutoScaling Group
+
+![AWS Architecture Screenshot](Screenshots/nginix-hosting-4.jpg)
 
 ---
 
