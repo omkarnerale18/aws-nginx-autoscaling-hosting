@@ -1,6 +1,6 @@
-# Tooplate AWS Nginx Scalable Hosting
+#  AWS Scalable Hosting
 
-A production-ready deployment of a **Tooplate website** on **AWS** with a scalable and resilient architecture.  
+A production-ready deployment of a free website template from [Tooplate](https://www.tooplate.com/) on **AWS** with a scalable and resilient architecture.  
 This project is hosted using:
 
 - **Nginx** as the web server
@@ -49,3 +49,5 @@ This project is hosted using:
 
 ---
 
+## 📄 Credits  
+- Template by [Tooplate](https://www.tooplate.com/)  
